@@ -1,0 +1,18 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
